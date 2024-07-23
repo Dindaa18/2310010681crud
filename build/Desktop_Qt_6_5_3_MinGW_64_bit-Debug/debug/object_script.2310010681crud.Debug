@@ -1,0 +1,11 @@
+debug/daftar.o
+debug/main.o
+debug/mainwindow.o
+debug/pembayaran.o
+debug/pengumuman.o
+debug/user.o
+debug/moc_daftar.o
+debug/moc_mainwindow.o
+debug/moc_pembayaran.o
+debug/moc_pengumuman.o
+debug/moc_user.o

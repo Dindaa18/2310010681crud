@@ -1,0 +1,11 @@
+release/daftar.o
+release/main.o
+release/mainwindow.o
+release/pembayaran.o
+release/pengumuman.o
+release/user.o
+release/moc_daftar.o
+release/moc_mainwindow.o
+release/moc_pembayaran.o
+release/moc_pengumuman.o
+release/moc_user.o
